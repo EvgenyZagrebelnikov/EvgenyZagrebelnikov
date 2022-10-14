@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvgenyZagrebelnikov
 - 👀 I’m interested in: manual QA, automation QA, programming languages (Java, Python)
-- 🌱 I’m currently learning : Codecademy (Learn Java), qa automation for everyone
+- 🌱 I’m currently learning : Codecademy (Learn Java), I am studying Java automation at the online school RedRover.school
 - 💞️ I’m looking to collaborate on automation QA
 - 📫 How to reach me: email: ezagrebelnikov@gmail.com
 
